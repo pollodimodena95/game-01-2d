@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/game-01-2d/Content/Blueprints/BP_Samurai_Player.uasset",
+				"D:/Projects/game-01-2d/Content/Maps/Map_Duel.umap",
+				"D:/Projects/game-01-2d/Content/Input/Actions/AI_Attack.uasset",
+				"D:/Projects/game-01-2d/Content/Blueprints/GM_Duel.uasset",
+				"D:/Projects/game-01-2d/Content/Input/IMC_Duel.uasset",
 				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Background/T_Background.uasset",
 				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Misc/T_Cross.uasset",
 				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Misc/T_Exclamation.uasset",
