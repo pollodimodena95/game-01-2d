@@ -3,41 +3,10 @@
 	"changelists": [
 		{
 			"guid": "00000000000000000000000000000000",
-			"description": "Default Uncontrolled Changelist",
+			"description": "Changelist non controllate predefinite",
 			"files": [
-				"D:/Projects/game-01-2d/Content/Blueprints/BP_Samurai_Player.uasset",
 				"D:/Projects/game-01-2d/Content/Maps/Map_Duel.umap",
-				"D:/Projects/game-01-2d/Content/Input/Actions/AI_Attack.uasset",
-				"D:/Projects/game-01-2d/Content/Blueprints/GM_Duel.uasset",
-				"D:/Projects/game-01-2d/Content/Input/IMC_Duel.uasset",
-				"D:/Projects/game-01-2d/Content/Blueprints/BP_Samurai.uasset",
-				"D:/Projects/game-01-2d/Content/Blueprints/BP_Samurai_NPC.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Background/T_Background.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Misc/T_Cross.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Misc/T_Exclamation.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Tanuki/T_Tanuki_Attack.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Tanuki/T_Tanuki_Defeated.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Tanuki/T_Tanuki_Idle.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Toad/T_Toad_Attack.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Toad/T_Toad_Defeated.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Toad/T_Toad_Idle.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Background/T_Background_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Misc/T_Cross_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Misc/T_Exclamation_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Tanuki/T_Tanuki_Attack_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Tanuki/T_Tanuki_Defeated_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Tanuki/T_Tanuki_Idle_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Toad/T_Toad_Attack_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Toad/T_Toad_Defeated_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Toad/T_Toad_Idle_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/Maps/Map_Duel.umap",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/Blueprints/BP_Samurai.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/Blueprints/BP_Samurai_NPC.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/Blueprints/BP_Samurai_Player.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/Blueprints/GM_Duel.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/Blueprints/E_Phase.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/Blueprints/BP_Exclamation.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Background/T_Background_Sprite1.uasset"
+				"D:/Projects/game-01-2d/Content/Input/IMC_Duel.uasset"
 			]
 		}
 	]
